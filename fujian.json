@@ -1,12 +1,12 @@
 {
-    "spider": [
-        {
-            "name": "福建电信直播",
-            "type": "local",
-            "url": "https://pl10000.infinityfreeapp.com/vtv.php?subscribe=1&tpl=%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        }
-    ]
+  "sites": [ // 这里改成了 sites
+    {
+      "name": "福建电信直播",
+      "type": "local",
+      "url": "https://pl10000.infinityfreeapp.com/vtv.php?subscribe=1&tpl=%E7%A6%8F%E5%BB%BA%E7%94%B5%E4%BF%A1",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
+  ]
 }
