@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/EPG.xml"
 #~~~~~~~~~~ 央视 ~~~~~~~~~~
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV-1.png" group-title="央视",CCTV-1 综合
 http://27.148.240.185/PLTV/88888888/224/3221226773/1.m3u8
