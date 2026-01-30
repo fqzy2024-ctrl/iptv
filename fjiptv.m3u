@@ -176,4 +176,5 @@ http://27.148.240.185/PLTV/88888888/224/3221227310/1.m3u8
 http://27.148.240.185/PLTV/88888888/224/3221227404/1.m3u8
 #EXTINF:-1 tvg-name="深圳卫视 4K" tvg-logo="https://live.fanmingming.com/tv/深圳卫视-4K.png" group-title="其他",深圳卫视 4K
 http://27.148.240.185/PLTV/88888888/224/3221227408/1.m3u8
-
+#EXTINF:-1 tvg-name="湖南卫视 4K" tvg-logo="https://live.fanmingming.com/tv/湖南卫视-4K.png" group-title="其他",湖南卫视 4K
+http://27.148.240.185/PLTV/88888888/224/3221227316/1.m3u8
