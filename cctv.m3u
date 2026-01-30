@@ -1,0 +1,37 @@
+#EXTM3U x-tvg-url=https://live.fanmingming.com/e.xml
+#EXTINF:-1 tvg-name="CCTV-1" tvg-logo="https://live.fanmingming.com/tv/CCTV-1.png",CCTV-1
+http://cctv.sohu.blog/hls/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV-2" tvg-logo="https://live.fanmingming.com/tv/CCTV-2.png",CCTV-2
+http://cctv.sohu.blog/hls/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV-3.png",CCTV-3
+http://cctv.sohu.blog/hls/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV-4" tvg-logo="https://live.fanmingming.com/tv/CCTV-4.png",CCTV-4
+http://cctv.sohu.blog/hls/cctv4.m3u8
+#EXTINF:-1 tvg-name="CCTV-5" tvg-logo="https://live.fanmingming.com/tv/CCTV-5.png",CCTV-5
+http://cctv.sohu.blog/hls/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="https://live.fanmingming.com/tv/CCTV-5+.png",CCTV-5+
+http://cctv.sohu.blog/hls/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV-6" tvg-logo="https://live.fanmingming.com/tv/CCTV-6.png",CCTV-6
+http://cctv.sohu.blog/hls/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV-7.png",CCTV-7
+http://cctv.sohu.blog/hls/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="https://live.fanmingming.com/tv/CCTV-8.png",CCTV-8
+http://cctv.sohu.blog/hls/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV-9" tvg-logo="https://live.fanmingming.com/tv/CCTV-9.png",CCTV-9
+http://cctv.sohu.blog/hls/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV-10" tvg-logo="https://live.fanmingming.com/tv/CCTV-10.png",CCTV-10
+http://cctv.sohu.blog/hls/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV-11" tvg-logo="https://live.fanmingming.com/tv/CCTV-11.png",CCTV-11
+http://cctv.sohu.blog/hls/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV-12" tvg-logo="https://live.fanmingming.com/tv/CCTV-12.png",CCTV-12
+http://cctv.sohu.blog/hls/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV-13" tvg-logo="https://live.fanmingming.com/tv/CCTV-13.png",CCTV-13
+http://cctv.sohu.blog/hls/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV-14" tvg-logo="https://live.fanmingming.com/tv/CCTV-14.png",CCTV-14
+http://cctv.sohu.blog/hls/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png",CCTV-15
+http://cctv.sohu.blog/hls/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="https://live.fanmingming.com/tv/CCTV-16.png",CCTV-16
+http://cctv.sohu.blog/hls/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV-17" tvg-logo="https://live.fanmingming.com/tv/CCTV-17.png",CCTV-17
+http://cctv.sohu.blog/hls/cctv17.m3u8
